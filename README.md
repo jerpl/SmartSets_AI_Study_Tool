@@ -6,4 +6,4 @@ as you spend just as much time on the concepts you already know, as the ones you
 
 Using natural language processing and a neural network to compare your answers to questions with the correct answer, smart sets is able to generate a numerical score to represent your competence in every question you answer. Then, using the Smart Shuffler, it creates unique study sessions that are different every time and correlate directly to your competence with each flashcard, forcing you to study your worst questions far more than those you know well. In my testing, I found using smartsets reduces the time it took me to fully memorize a set of questions by about ONE THIRD! 
 
-I have used this app personally to study for my psychology exams, and it is a perfect example of how software does not need to be excessively complicated to solve everyday problems. 
+I have used this app personally to study for my psychology exams, and it is a perfect example of how software does not need to be excessively complicated to solve everyday problems. At the moment, I run the app from the terminal but I intend to build a UI in the future.
