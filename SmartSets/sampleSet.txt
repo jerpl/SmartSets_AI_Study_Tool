@@ -1,0 +1,9 @@
+What does NLP stand for? Natural Language Processing
+Describe the n-gram word model? An langauge model where each word is dependent on n-1 previous words
+What does tf-idf stand for? Term Frequency Inverse Document Frequency
+Desribe what a value function is in reinforcement learning? A function that estimates long term rewards of a single state
+Desribe what a Q function is in reinforcement learning? A function that estimates long term rewards of a state action pair
+List the three methods of reinforcement learning discussed in class? Direct Estimation, Adaptive Dynamic Programming, Temporal Difference Learning
+True or False, goal based agent's "act to maximize some utility function"? False
+What do we call the function that describes how likely a member of a population is to survive (Genetic Algoirthm)? Fitness Function
+Define the acronym PEAS when refering to task environments in artificial intelligence? Performance Measure, environment, actuators, sensors
